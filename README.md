@@ -90,6 +90,7 @@ Following providers and products are listed in alphabetical order.
 - [Openfaas](https://www.openfaas.com/)
 - [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 - [Otomi](https://otomi.io/)
+- [Peon](https://peon.sh/)
 - [Piku]( https://github.com/piku/piku)
 - [Porter](https://porter.run)
 - [Qovery](https://www.qovery.com/)
